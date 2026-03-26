@@ -1,0 +1,4 @@
+[submodule "evil"]
+    path = evil
+    url = https://github.com/makriin/test
+    fetchRecurseSubmodules = true
